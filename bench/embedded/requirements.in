@@ -1,0 +1,5 @@
+apsw==3.51.2.0
+chromadb==1.5.9
+milvus-lite==3.2.1
+numpy==2.3.3
+pymilvus==3.0.2
